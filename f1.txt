@@ -3,8 +3,16 @@ modified after v1.1
 modified after v1.2
 modified after v1.3
 random change in f1
+<<<<<<< HEAD
 f1 f1 f1 f1  f1 f1 f1 f1  f1 f1 f1 f1
 modified after v1.1
 modified after v1.2
 modified after v1.3
 random change in f1
+=======
+f11 f11 f11 f11  f11 f11 f11 f11  f11 f11 f11 f11
+modified after v1.11
+modified after v1.21
+modified after v1.31
+random change in f11
+>>>>>>> origin/master
