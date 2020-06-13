@@ -1,3 +1,6 @@
 modified: m2 m2 m2 m2
 modified by feature f1
 modified m2 by feature f1`
+modified: m2 m2 m2 m2
+modified by feature f1
+modified m2 by feature f1`
