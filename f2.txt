@@ -2,3 +2,7 @@ f2 f2 f2
 modified after v1.1
 modified after v1.2
 random change in f2
+f2 f2 f2
+modified after v1.1
+modified after v1.2
+random change in f2
